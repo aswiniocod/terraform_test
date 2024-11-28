@@ -7,7 +7,7 @@ def hello(request):
     <title>Centered Content</title>
     <style>
         body {
-            background-color: #A3EBB1;
+            background-color: #87CEEB;
             display: flex;
             justify-content: center;
             align-items: center;
